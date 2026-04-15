@@ -1,6 +1,6 @@
-# 📊 Time Series Analysis and Forecasting using ARIMA / Machine Learning
+#Time Series Analysis and Forecasting using ARIMA / Machine Learning
 
-## 📌 Overview
+## Overview
 
 This project focuses on analyzing time-series data and building predictive models to forecast future trends. The study applies statistical and machine learning techniques such as ARIMA to understand patterns and generate accurate predictions.
 
@@ -8,14 +8,14 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📈 Time series data visualization
-* 🧹 Data preprocessing and cleaning
-* 🔍 Trend and pattern analysis
-* 🤖 Forecasting using ARIMA / ML models
-* 📊 Graph extraction from Jupyter Notebook
-* 📄 Automatic report generation (.docx format)
+*  Time series data visualization
+*  Data preprocessing and cleaning
+*  Trend and pattern analysis
+*  Forecasting using ARIMA / ML models
+*  Graph extraction from Jupyter Notebook
+*  Automatic report generation (.docx format)
 
 ---
 
@@ -29,9 +29,9 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* Python 🐍
+* Python 
 * Jupyter Notebook
 * Pandas, NumPy
 * Matplotlib / Seaborn
@@ -40,7 +40,7 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 1. **Data Collection**
 
