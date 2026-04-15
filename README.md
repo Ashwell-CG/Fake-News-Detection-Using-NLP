@@ -18,7 +18,7 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── main.ipynb              # Jupyter Notebook with analysis and models
