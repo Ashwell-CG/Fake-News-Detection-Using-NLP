@@ -1,4 +1,3 @@
-#Time Series Analysis and Forecasting using ARIMA / Machine Learning
 
 ## Overview
 
@@ -74,7 +73,7 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## 📈 Sample Results
+## Sample Results
 
 * Forecast trends closely match actual values
 * Low error metrics indicate good model performance
@@ -82,7 +81,7 @@ The project also includes a professionally structured academic report with extra
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -108,7 +107,7 @@ pip install pandas numpy matplotlib statsmodels python-docx nbformat pillow
 jupyter notebook main.ipynb
 ```
 
-## 📚 Future Improvements
+## Future Improvements
 
 * Implement LSTM / Deep Learning models
 * Real-time data integration
@@ -117,13 +116,13 @@ jupyter notebook main.ipynb
 
 ---
 
-## 🤝 Acknowledgment
+## Acknowledgment
 
 This project was developed **with the help of Pranav Prathipati**, whose support and contributions were valuable in completing the analysis.
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 This project is inspired by academic research methodologies and aims to bridge practical implementation with theoretical concepts.
 
