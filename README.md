@@ -128,6 +128,6 @@ This project is inspired by academic research methodologies and aims to bridge p
 
 ---
 
-## 📌 License
+## License
 
 This project is open-source and available under the MIT License.
