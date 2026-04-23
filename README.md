@@ -35,7 +35,6 @@ The project also includes a professionally structured academic report with extra
 * Pandas, NumPy
 * Matplotlib / Seaborn
 * Statsmodels (ARIMA)
-* python-docx (for report generation)
 
 ---
 
